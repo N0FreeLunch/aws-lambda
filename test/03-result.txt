@@ -1,0 +1,15 @@
+Response
+null
+
+Function Logs
+START RequestId: 27c2e4f7-2d32-4a2f-91b7-41e965211d66 Version: $LATEST
+2021-03-14T14:10:05.667Z	27c2e4f7-2d32-4a2f-91b7-41e965211d66	INFO	stdout : total 4.5K
+drwxr-xr-x  2 root root   31 Mar 14 13:50 .
+drwxr-xr-x 24 root root 4.0K Jan 19 13:02 ..
+-rw-r--r--  1 root root  426 Mar 14 13:50 index.js
+
+END RequestId: 27c2e4f7-2d32-4a2f-91b7-41e965211d66
+REPORT RequestId: 27c2e4f7-2d32-4a2f-91b7-41e965211d66	Duration: 156.03 ms	Billed Duration: 157 ms	Memory Size: 128 MB	Max Memory Used: 67 MB	Init Duration: 128.66 ms
+
+Request ID
+27c2e4f7-2d32-4a2f-91b7-41e965211d66
